@@ -1,4 +1,4 @@
-### Cybersecurity Assignment Project  
+### Cybersecurity Project  
 **University of Western Australia**  
 
 - Completed a series of coding challenges using Bash terminal to demonstrate proficiency in scripting and automation for cybersecurity tasks.  
